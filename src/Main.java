@@ -44,7 +44,7 @@ public class Main {
             System.out.println(sol1);
             System.out.println(sol2);
         }else{
-            System.out.println("Hay dos soluciones existentes");
+            System.out.println("Hay dos soluciones existentes :D");
             System.out.println(sol1);
             System.out.println(sol2);
         }
