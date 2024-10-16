@@ -38,7 +38,7 @@ public class Main {
             System.out.println("No existe solución real");
         } else if ((raiz)<0){
             System.out.println("No existe solución real");
-        }else if ((Math.pow(b, 2)-4*a*c)<=0){
+        }else if ((Math.pow(b, 2)-4*a*c) == 0){
             System.out.println("Una solución existente");
             System.out.println("Solución doble");
             System.out.println(sol1);
